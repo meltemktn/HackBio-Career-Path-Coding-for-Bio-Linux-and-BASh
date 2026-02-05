@@ -1,6 +1,6 @@
 #!/bin/zsh
 
-# #!/bin/bash could work too
+# #!/bin/bash should work too
 
 
 conda activate base
