@@ -9,7 +9,7 @@ conda deactivate
 conda activate funtools
 conda install conda-forge::pyfiglet
 pyfiglet Meltem
-conda conda config --add channels defaults
+conda config --add channels defaults
 conda config --add channels bioconda
 conda config --add channels conda-forge
 conda install bioconda::bwa
